@@ -1,0 +1,21 @@
+---
+name: ChestShop
+main: ChestShop\Main
+api:
+- 3.6.1
+version: "3.0"
+depend:
+- EconomyAPI
+commands:
+  chestshop:
+    aliases:
+    - cs
+    - cshop
+permissions:
+  chestshop.command.opcmd:
+    default: op
+  chestshop.command.add:
+    default: op
+  chestshop.command.remove:
+    default: op
+...
