@@ -1,6 +1,5 @@
 # cshop 
 By muqsit I am bringing more amendments
-Working together
+plugin Working together
  - economyapi
  - invsee
-...
